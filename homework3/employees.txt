@@ -1,0 +1,9 @@
+1,1001,John Doe,5000
+2,2001,Jane Smith,20,15
+3,3001,Mark Brown,5,200
+1,1002,Emily White,6000
+2,2002,Tom Green,25,18
+3,3002,Linda Black,10,250
+1,1003,Michael Blue,7000
+2,2003,Sarah Red,30,20
+3,3003,Chris Gold,8,300
